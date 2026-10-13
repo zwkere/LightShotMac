@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleName</key><string>轻截</string>
+<key>CFBundleDisplayName</key><string>轻截</string>
+<key>CFBundleExecutable</key><string>LightShot</string>
+<key>CFBundleIdentifier</key><string>local.zwkere.lightshot</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>1.1.0</string>
+<key>CFBundleVersion</key><string>2</string>
+<key>CFBundleIconFile</key><string>AppIcon</string>
+<key>LSMinimumSystemVersion</key><string>14.0</string>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSSupportsAutomaticTermination</key><false/>
+<key>NSPrincipalClass</key><string>NSApplication</string>
+<key>NSHumanReadableCopyright</key><string>轻截 · 本地截图与文字识别</string>
+<key>CFBundleDocumentTypes</key><array><dict><key>CFBundleTypeName</key><string>图片</string><key>CFBundleTypeRole</key><string>Viewer</string><key>LSHandlerRank</key><string>Alternate</string><key>LSItemContentTypes</key><array><string>public.png</string><string>public.jpeg</string><string>public.tiff</string></array></dict></array>
+</dict></plist>
